@@ -1,4 +1,4 @@
-Getting the site up and running for development
+Getting the site and making it developed
 ===============================================
 
 With docker-compose
